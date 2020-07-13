@@ -8,7 +8,7 @@
 It's a Simple QR Scanner app written in swift using **AVFoundation**. It can Scan QR from Image Gallery and Camera also. 
 After successfully scan a QR it will navigate to the Safari browser if the QR contains a URL.
 
-![](appScreen.PNG)
+![](appScreenY.PNG)
 
 ## Features
 

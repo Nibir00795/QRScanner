@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		963D88D224BCC31800A8C06B /* ToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 963D88D124BCC31800A8C06B /* ToastView.swift */; };
 		967901DC24BB5B4300918A7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967901DB24BB5B4300918A7A /* AppDelegate.swift */; };
 		967901DE24BB5B4300918A7A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967901DD24BB5B4300918A7A /* SceneDelegate.swift */; };
 		967901E024BB5B4300918A7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967901DF24BB5B4300918A7A /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		963D88D124BCC31800A8C06B /* ToastView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToastView.swift; sourceTree = "<group>"; };
 		967901D824BB5B4300918A7A /* QRScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		967901DB24BB5B4300918A7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		967901DD24BB5B4300918A7A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				967901DB24BB5B4300918A7A /* AppDelegate.swift */,
+				963D88D124BCC31800A8C06B /* ToastView.swift */,
 				967901DD24BB5B4300918A7A /* SceneDelegate.swift */,
 				967901DF24BB5B4300918A7A /* ViewController.swift */,
 				967901E124BB5B4300918A7A /* Main.storyboard */,
@@ -266,6 +269,7 @@
 				967901DC24BB5B4300918A7A /* AppDelegate.swift in Sources */,
 				967901DE24BB5B4300918A7A /* SceneDelegate.swift in Sources */,
 				967901E624BB5B4300918A7A /* QRScanner.xcdatamodeld in Sources */,
+				963D88D224BCC31800A8C06B /* ToastView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
